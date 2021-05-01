@@ -10,15 +10,15 @@ export const config = {
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
-  enableOAuth: true,
-  OAuthClientID: 'Iv1.9f40fd53257d4102',
+  enableOAuth: false,
+  OAuthClientID: 'Iv1.d0bb6880a06e4576',
   OAuthSecret: 'cc3db76ffe9848c92d83172807eececa79f0eb22',
 
   // Your Personal Blog Title
-  title : "Saad Pasta" ,
+  title : "Vinh" ,
 
   // Your Personal Blog Subtitle
-  subtitle : "Software Developer",
+  subtitle : "Content Writer - Software Developer",
 
   // Header customization
   header: {
