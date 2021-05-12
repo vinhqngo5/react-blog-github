@@ -33,7 +33,7 @@ const Application = () => {
         <ThemeProvider theme={themeMode} toggleTheme={themeToggler}>
           <GlobalStyles />
           <Router />
-          <Toggle theme={theme} toggleTheme={themeToggler} />
+          {/* <Toggle theme={theme} toggleTheme={themeToggler} /> */}
         </ThemeProvider>
       </ApolloProvider>
     </>
